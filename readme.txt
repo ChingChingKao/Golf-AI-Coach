@@ -1,0 +1,4 @@
+comment.py 生評語
+realTime_Output.py生成績
+realTime_run.py即時錄影生keypoint但出來的檔名沒有Student_1_X_X
+realTime_runVideo.py 將錄好的影片丟進去生keypoint
