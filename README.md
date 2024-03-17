@@ -3,12 +3,12 @@
  <br>[決賽PPT](https://prezi.com/view/kyM6KeLXOtnGlFEZThYw/)
  <br>[系統概述文件](https://github.com/ChingChingKao/Golf-AI-Coach/blob/main/%E7%B3%BB%E7%B5%B1%E6%A6%82%E8%BF%B0%E6%96%87%E4%BB%B6.doc)
  <br>[簡介影片](https://www.youtube.com/watch?v=GkYwfYMdGlE)
- <br>code介紹：
+ <br><br>code介紹：
  <br>[comment.py 生評語](https://github.com/ChingChingKao/Golf-AI-Coach/blob/main/comment.py)
  <br>[realTime_Output.py生成績](https://github.com/ChingChingKao/Golf-AI-Coach/blob/main/realTime_Output.py)
  <br>[realTime_run.py即時錄影生keypoint](https://github.com/ChingChingKao/Golf-AI-Coach/blob/main/realTime_run.py)
  <br>[realTime_runVideo.py 將錄好的影片丟進去生keypoint](https://github.com/ChingChingKao/Golf-AI-Coach/blob/main/realTime_runVideo.py)
- <br>簡介：
+ <br><br>簡介：
  <br>本系統的主要目的是為高爾夫老師提供一個便利的平台，幫助他們快速且準確地評估學生的揮桿動作以及提供評語、建議，從而提升教學效率。以下是該系統的主要功能：
  <br>1.	即時錄製影片：在球場上架設電腦及攝影機，錄製學生的十次揮桿動作，系統會將影片進行分析。
  <br>2.	動作辨識與評分：分析後的每段影片會有一個揮桿分數紀錄，供老師參考與評分。
