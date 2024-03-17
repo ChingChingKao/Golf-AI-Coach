@@ -1,7 +1,7 @@
 # Golf-AI-Coach
  <br>2023第28屆大專校院資訊應用服務創新競賽 佳作
  <br>[決賽PPT](https://prezi.com/view/kyM6KeLXOtnGlFEZThYw/)
- <br>[系統概述文件]([https://www.youtube.com/watch?v=GkYwfYMdGlE](https://github.com/ChingChingKao/Golf-AI-Coach/blob/main/%E7%B3%BB%E7%B5%B1%E6%A6%82%E8%BF%B0%E6%96%87%E4%BB%B6.doc))
+ <br>[系統概述文件](https://github.com/ChingChingKao/Golf-AI-Coach/blob/main/%E7%B3%BB%E7%B5%B1%E6%A6%82%E8%BF%B0%E6%96%87%E4%BB%B6.doc)
  <br>[簡介影片](https://www.youtube.com/watch?v=GkYwfYMdGlE)
  <br>code介紹：
  <br>[comment.py 生評語](https://github.com/ChingChingKao/Golf-AI-Coach/blob/main/comment.py)
